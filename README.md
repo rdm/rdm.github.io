@@ -4,4 +4,4 @@ While mediawiki offers a great set of presentation tools, github wikis provide b
 
 Also, we're working on putting together a webassembly implementation [of J](https://github.com/joebo/j-emscripten-src), and github provides the right kind of infrastructure for maintaining that kind of system.
 
-Anyways.. for now, I am using rdm.github.io as a scratchpad for [demonstrating](example.html) some of the deployment-related concepts for this project for others on the team.
+Anyways.. for now, I am using rdm.github.io as a scratchpad for [demonstrating](example.html) some of the deployment-related concepts for this project for others on the team. (The link in this paragraph includes an html file which references an image file and a javascript file.)
