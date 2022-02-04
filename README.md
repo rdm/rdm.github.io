@@ -6,4 +6,4 @@ Also, we're working on putting together a webassembly implementation [of J](http
 
 Anyways.. for now, I am using rdm.github.io as a scratchpad for [demonstrating](example.html) some of the deployment-related concepts for this project for others on the team. (The link in this paragraph includes an html file which references an image file and a javascript file.)
 
-You can see the raw files in the matching [github repository](https://github.com/rdm/rdm.github.io).
+You can see this site's files in the matching [github repository](https://github.com/rdm/rdm.github.io).
